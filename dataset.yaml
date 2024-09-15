@@ -1,4 +1,4 @@
-path: C:\\srujan_global_project\\dataset  # Root directory of your dataset
+path: C:\\akash_global_project\\dataset  # Root directory of your dataset
 train: images/train
 val: images/valid
 test: images/test
